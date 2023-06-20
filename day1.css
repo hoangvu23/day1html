@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(137, 97, 173);
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    display: block;
+    margin-right: auto;
+    width: 10%;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
